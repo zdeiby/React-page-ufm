@@ -1,0 +1,22 @@
+.scrollable-container {
+    max-height: 500px; /* Establece la altura máxima del contenedor */
+    overflow-y: auto; /* Agrega scroll vertical cuando el contenido excede la altura */
+  }
+
+.foto{
+    border-radius: 5px;
+}
+.parrafo{
+    width: 90%;
+}
+
+.notice{
+    border-bottom: 2px solid rgb(0, 176, 246) !important;
+    border-top: 2px solid rgb(0, 176, 246) !important;
+    width: 60%;
+   
+}
+.divNoticia{
+    display: flex;
+    justify-content: center;
+}
